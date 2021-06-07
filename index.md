@@ -933,6 +933,8 @@ name in the format `COLLECTION/ENTRY`, for example
 
 [entity/PERSON]()
 
+[entity/alberto]()
+
 (Note that the text of the generated link only includes the entry
 label.)
 
