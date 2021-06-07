@@ -926,6 +926,8 @@ it is possible to disambiguate the target by including the collection
 name in the format `COLLECTION/ENTRY`, for example
 
     [entity/PERSON]()
+    
+    [entity/alberto]()
 
 (or, equivalently, `<a>entity/PERSON</a>`) which produces
 
