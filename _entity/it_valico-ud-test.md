@@ -1,3 +1,13 @@
+---
+layout: entry
+title: "VALICO"
+shortdef: "individual human or group of humans"
+---
+
+References to single individual humans as well as groups of humans are
+annotated as `VALICO`.
+
+<!-- details -->
 ~~~ conllu
 # newdoc id = 9x4L1_LS_senzaID.txt
 # newpar
