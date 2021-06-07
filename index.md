@@ -913,11 +913,13 @@ to the documentation for the PERSON type, use
 which gives the following link
 
 [PERSON]()
+[ALBERTO]()
 
 Alternatively, you can use empty HTML anchor tags (`<a>`, `</a>`),
 as in
 
     <a>PERSON</a>
+    <a>ALBERTO</a>
 
 (These two alternative forms result in identical links.)
 
@@ -932,6 +934,8 @@ name in the format `COLLECTION/ENTRY`, for example
 (or, equivalently, `<a>entity/PERSON</a>`) which produces
 
 [entity/PERSON]()
+
+<a>entity/ALBERTO</a>
 
 [entity/ALBERTO]()
 
