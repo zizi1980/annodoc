@@ -927,13 +927,13 @@ name in the format `COLLECTION/ENTRY`, for example
 
     [entity/PERSON]()
     
-    [entity/alberto]()
+    [entity/ALBERTO]()
 
 (or, equivalently, `<a>entity/PERSON</a>`) which produces
 
 [entity/PERSON]()
 
-[entity/alberto]()
+[entity/ALBERTO]()
 
 (Note that the text of the generated link only includes the entry
 label.)
