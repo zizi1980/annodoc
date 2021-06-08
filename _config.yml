@@ -17,7 +17,7 @@ markdown_ext: md
 
 name: Annodoc
 baseurl: "/annodoc/_site"
-homeurl: "https://github.com/zizi1980/annodoc/"
+homeurl: "https://zizi1980.github.io/annodoc/_site"
 editurl: "https://github.com/zizi1980/annodoc/edit/gh-pages"
 issueurl: "https://github.com/zizi1980/annodoc/issues"
 
